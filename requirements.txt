@@ -1,0 +1,6 @@
+streamlit
+flask
+selenium
+webdriver-manager
+fpdf
+reportlab
